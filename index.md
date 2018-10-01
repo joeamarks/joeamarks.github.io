@@ -2,7 +2,7 @@
 
 I am a PhD student in the Department of Experimental Psychology at University College London. I am conducting my doctoral studies in Prof. Tali Sharot's [Affective Brain Lab ](http://affectivebrain.com), where I am also Head of Consulting Services and Lab Manager. I am also an Associate Consult at [Influence At Work UK](http://influenceatwork.co.uk/) and co-author (with Steve Martin) of the book [Messengers](https://www.thebookseller.com/news/prh-publish-book-psychology-modern-day-messengers-733921)
 
-![Joe](https://github.com/joeamarks/joeamarks.github.io/blob/master/Joe.jpg =300x400)
+<img src="https://github.com/joeamarks/joeamarks.github.io/blob/master/Joe.jpg" height="400">
 
 ### Research
 
