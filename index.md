@@ -2,8 +2,6 @@
 
 I am a PhD student in the Department of Experimental Psychology at University College London. I am conducting my doctoral studies in Prof. Tali Sharot's [Affective Brain Lab ](http://affectivebrain.com), where I am also Head of Consulting Services and Lab Manager. I am also an Associate Consult at [Influence At Work UK](http://influenceatwork.co.uk/) and co-author (with Steve Martin) of the book [Messengers](https://www.thebookseller.com/news/prh-publish-book-psychology-modern-day-messengers-733921)
 
- ![Joe](https://github.com/joeamarks/joeamarks.github.io/blob/master/JoeProfile.jpg?raw=true)
-
 ### Research
 
 My research investigates the processes by which people social cues influence decision-making. In particular, I am interested in how people's cognitive and affective responses to others' behaviour influences choice.
@@ -17,3 +15,5 @@ My research investigates the processes by which people social cues influence dec
 
 - Should we trust people whose politics differ from ours? [The Guardian](https://www.theguardian.com/lifeandstyle/2018/jun/15/should-we-trust-people-whose-politics-differ-oliver-burkeman) June 15, 2018
 - Would You Go to a Republican Doctor? [The New York Times](https://www.nytimes.com/2018/05/24/opinion/sunday/politics-distorts-judgment.html) May 24, 2018
+
+ ![Joe](https://github.com/joeamarks/joeamarks.github.io/blob/master/JoeProfile.jpg?raw=true)
