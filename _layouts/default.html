@@ -18,16 +18,6 @@
 
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
-          {% if site.show_downloads %}
-            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-            <li class="title">DOWNLOADS</li>
-          {% endif %}
-        </nav>
-      </div><!-- end header -->
 
     <div class="wrapper">
 
@@ -37,7 +27,7 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
           <span class="credits left">Email joseph.marks.14@ucl.ac.uk</span>
-          <span class="credits right">Affective Brain Lab<a href={{"http://affectivebrain.com/"}}</a></span>
+          <span class="credits right">PhD student in the Department of Experimental Psychology at UCL</a></span>
         </div>
 
         {{ content }}
